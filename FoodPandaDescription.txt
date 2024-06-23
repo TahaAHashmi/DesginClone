@@ -1,0 +1,13 @@
+***First Web Project***
+
+Design clone of foodpanda.pk using vanilla CSS. 
+
+The following must be taken into account:
+    -The following project displays an acute understanding of main CSS features like flexbox, grids,
+     media queries, etc.
+    -Media Queries were applied based on desktop and 960px width only to display an understanding
+     of the feature.
+    -Minimal concerns were given to aspects like font, colors, and complete accuracy in
+     terms of dimensions. Rather, the focus was on learning the intrinsic workings of CSS.
+
+THANKS FOR CHECKING IT OUT!  
